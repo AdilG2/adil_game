@@ -23,6 +23,9 @@ https://drive.google.com/file/d/1AQuL5a85BAksQ6sYib9FLN5UODDT5kO-/view?usp=shari
 In case of a tie, the game will show 'Nobody won:D'. Here is a screenshot:
 https://drive.google.com/file/d/1C_d6n4xG0oPOvIFcOq7wa9CiO5omiD4R/view?usp=sharing
 
+One video feedback from my friend:
+https://drive.google.com/file/d/1k3WugO_HKQzAAvhf1aZ2pVJDMci_sL6a/view?usp=sharing
+
 Warnings: If you are unable to view the photo in the Google Drive, then write to the mail pasas154@gmail.com . To run the game you need to install Pygame.
 
 P.S All rights reserved by 'Ala-Too International University'. (This is a joke. Don't take it seriously)
