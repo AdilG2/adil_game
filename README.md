@@ -31,6 +31,9 @@ Two video feedback from my friends:
 https://drive.google.com/file/d/1k3WugO_HKQzAAvhf1aZ2pVJDMci_sL6a/view?usp=sharing
 https://drive.google.com/file/d/1n3_gOYqo2Neoyarw27cWi2WHef9j-PMF/view?usp=sharing
 
+Video on YouTube:
+https://youtu.be/7tI11_XR5a0
+
 Warnings: If you are unable to view the photo in the Google Drive or you have some questions, then write to the mail pasas154@gmail.com 
 
 P.S All rights reserved by 'Ala-Too International University'. (This is a joke. Don't take it seriously)
